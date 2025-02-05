@@ -1,6 +1,5 @@
 # React JS University of Arts & Technology - Bootstrap 5 Design
 
-## View live website: https://ionut-cora.github.io/react-university-website/
 
 <img src="arts_tech_university.jpg" alt="React JS University of Arts & Technology" />
 
